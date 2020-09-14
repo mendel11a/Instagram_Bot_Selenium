@@ -6,7 +6,7 @@
 #### Username
 #### Password
 ### The user has also to put his email and email password so that the bot can bring from the email the number confirmation that will be send by instagram.
-### Finally, the user enters the name of the instagram user he wants to follow and the bot make this for him.
+### Finally, the user enters the name of the instagram user he wants to follow and the bot makes this for him.
 
 ## Directories :
 #### pip install Selenium
