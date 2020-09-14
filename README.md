@@ -8,5 +8,5 @@
 ### The user has also to put his email and email password so that the bot can bring from the email the number confirmation that will be send by instagram.
 
 ## Directories :
-### pip install Selemium
-### download chromedriver 
+#### pip install Selenium
+#### download chromedriver 
