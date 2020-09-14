@@ -15,7 +15,6 @@ import codecs
 
 class Bot():
     
-
     def __init__(self):
         PATH= "C:\Program Files (x86)\chromedriver.exe"
         self.driver= webdriver.Chrome(executable_path=PATH) # start chrome       
