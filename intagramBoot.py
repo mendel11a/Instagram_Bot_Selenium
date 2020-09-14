@@ -17,9 +17,6 @@ class Bot():
     
 
     def __init__(self):
-       
-        r = Requests.request(request_type='get', url='https://www.instagram.com/accounts/emailsignup/?hl=en')
-    
         PATH= "C:\Program Files (x86)\chromedriver.exe"
         self.driver= webdriver.Chrome(executable_path=PATH) # start chrome       
         self.driver.get("https://www.instagram.com/accounts/emailsignup/?hl=en")
